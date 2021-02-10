@@ -22,20 +22,20 @@ variable "appservice_name" {
 variable "subscription_id" {
   description = "Azure Subscription ID"
   type = string
-  default = "1d11b6a5-9652-4589-a208-89bcac57ba39"
+  default = "XXXX"
 }
 variable "client_id" {
   description = "Azure SPN Client ID"
   type = string
-  default = "5c22e7e8-e019-434f-8974-84d45a2f5e97"
+  default = "XXXX"
 }
 variable "client_secret" {
   description = "Azure SPN Client Secret"
   type = string
-  default = "CJAb57Ua20iggDZyD1ewMBP3.b4d-.-20u"
+  default = "XXXX"
 }
 variable "tenant_id" {
   description = "Azure Tenant ID"
   type = string
-  default = "723aa938-17e0-4144-b82c-2903de9e1337"
+  default = "XXXX"
 }
